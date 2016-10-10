@@ -1,1 +1,1 @@
-# android_learning_notes
+# 记录工作中所学习的 Android 知识
